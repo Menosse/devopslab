@@ -13,7 +13,7 @@ install:
 script:
   - python -m unittest -v test
 
-
+# Especificar OS e dist
 os: linux
 dist: xenial
 
